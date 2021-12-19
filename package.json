@@ -1,0 +1,21 @@
+{
+  "name": "nft-project",
+  "version": "1.0.0",
+  "description": "my first nft project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "komus_israel",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.6.8"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.7",
+    "@openzeppelin/contracts": "^4.3.3",
+    "dotenv": "^10.0.0"
+  }
+}
